@@ -42,10 +42,9 @@ Cisco Intro to Cybersecurity • Palo Alto Cybersecurity Foundation • OPSWAT (
 ---
 
 ## 🚀 Featured Projects
-- 🔎 **Wayback Endpoint Finder** — automate recon with archived endpoints  
-- 📧 **Email Threat Analyzer** — phishing detection tool  
-- 🖼️ **Image Steganography Tool** — hide/extract data in images  
-*(Add your repo links here 👆)*  
+- 🔎 [**Wayback Endpoint Finder**](https://github.com/shubham5665/wayback-sensitive-scanner) — automate recon with archived endpoints  
+- 📧 [**Email Threat Analyzer**](https://github.com/shubham5665/email-threat-analyzer) — phishing detection tool  
+- 🖼️ [**Image Steganography Tool**](https://github.com/shubham5665/steganography) — hide/extract data in images  
 
 ---
 
