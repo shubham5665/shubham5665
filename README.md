@@ -1,7 +1,5 @@
-<!-- ██████ HACKER PROFILE ██████ -->
-
 <p align="center">
-  <img src="https://i.imgur.com/5fKQmQF.gif" width="100%" alt="Matrix Rain">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Digital_rain_animation_small_letters_clear.gif" alt="Matrix Rain" width="100%" />
 </p>
 
 <h1 align="center">👾 Shubham Prajapat</h1>
@@ -17,18 +15,14 @@
   <img src="https://komarev.com/ghpvc/?username=shubham5665&style=for-the-badge&color=00FF88&label=Views" />
 </p>
 
----
-
-## 🕶️ About Me
-- 🎓 B.Tech in Computer Science (Cybersecurity focus)  
-- 🛡️ Ex–Cyber Security Intern @ **Cyber Secured India** (VAPT)  
-- 🧪 Projects: *Wayback Endpoint Finder*, *Email Threat Analyzer*, *Image Steganography Tool*  
-- 🏆 Competitions: **3rd Place – CYBERHACK 2025**, **Top 5 – CTF Pune**  
+## ​​ About Me
+- 🎓 B.Tech in Computer Science (Cybersecurity focus)
+- 🛡️ Ex–Cybersecurity Intern @ **Cyber Secured India** (VAPT)
+- 🧪 Projects: *Wayback Endpoint Finder*, *Email Threat Analyzer*, *Image Steganography Tool*
+- 🏆 **3rd Place – CYBERHACK 2025**, **Top 5 – CTF Pune**
 - 🎯 Passionate about **Red Teaming, Exploit Dev, and Security Automation**
 
----
-
-## ⚔️ Skills & Tools
+## ​​ Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-00FF88?style=for-the-badge&logo=linux&logoColor=111"/>
   <img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=111"/>
@@ -42,49 +36,31 @@
 **Certifications:**  
 Cisco Intro to Cybersecurity • Palo Alto Cybersecurity Foundation • OPSWAT (CFA, NSA, WTPA) • NPTEL Ethical Hacking
 
----
+## ​ Featured Projects
+- 🔎 **Wayback Endpoint Finder** — automate recon with archived endpoints
+- 📧 **Email Threat Analyzer** — phishing detection tool
+- 🖼️ **Image Steganography Tool** — hide/extract data in images
 
-## 🚀 Featured Projects
-- 🔎 **Wayback Endpoint Finder**  
-  CLI tool to extract 50+ archived endpoints for faster recon & attack surface discovery.  
-  → [View Repo](#)
-
-- 📧 **Email Threat Analyzer**  
-  Detects phishing/malicious emails via header & URL analysis with automated IOC checks.  
-  → [View Repo](#)
-
-- 🖼️ **Image Steganography Tool**  
-  Hide/extract data from images for stego research & blue-team demos.  
-  → [View Repo](#)
-
----
-
-## 📊 GitHub Stats
+## ​ GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=shubham5665&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=shubham5665&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham5665&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham5665&layout=compact&theme=radical" />
 </p>
 
----
-
-## 🏆 Trophies
+## ​ Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shubham5665&theme=matrix&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
----
-
-## 🐍 Contribution Snake
+## ​ Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
-## 📬 Contact
-📧 **Email:** shubhamprajapat074@gmail.com  
-🔗 **LinkedIn:** [shubham-prajapat-629b922b7](https://linkedin.com/in/shubham-prajapat-629b922b7)  
+## ​ Contact
+**Email:** shubhamprajapat074@gmail.com  
+**LinkedIn:** [shubham-prajapat-629b922b7](https://linkedin.com/in/shubham-prajapat-629b922b7)
