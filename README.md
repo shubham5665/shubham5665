@@ -15,14 +15,18 @@
   <img src="https://komarev.com/ghpvc/?username=shubham5665&style=for-the-badge&color=00FF88&label=Views" />
 </p>
 
-## ​​ About Me
-- 🎓 B.Tech in Computer Science (Cybersecurity focus)
-- 🛡️ Ex–Cybersecurity Intern @ **Cyber Secured India** (VAPT)
-- 🧪 Projects: *Wayback Endpoint Finder*, *Email Threat Analyzer*, *Image Steganography Tool*
-- 🏆 **3rd Place – CYBERHACK 2025**, **Top 5 – CTF Pune**
+---
+
+## 🕶️ About Me
+- 🎓 B.Tech in Computer Science (Cybersecurity focus)  
+- 🛡️ Ex–Cybersecurity Intern @ **Cyber Secured India** (VAPT)  
+- 🧪 Projects: *Wayback Endpoint Finder*, *Email Threat Analyzer*, *Image Steganography Tool*  
+- 🏆 **3rd Place – CYBERHACK 2025**, **Top 5 – CTF Pune**  
 - 🎯 Passionate about **Red Teaming, Exploit Dev, and Security Automation**
 
-## ​​ Skills & Tools
+---
+
+## ⚔️ Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-00FF88?style=for-the-badge&logo=linux&logoColor=111"/>
   <img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=111"/>
@@ -36,31 +40,27 @@
 **Certifications:**  
 Cisco Intro to Cybersecurity • Palo Alto Cybersecurity Foundation • OPSWAT (CFA, NSA, WTPA) • NPTEL Ethical Hacking
 
-## ​ Featured Projects
-- 🔎 **Wayback Endpoint Finder** — automate recon with archived endpoints
-- 📧 **Email Threat Analyzer** — phishing detection tool
-- 🖼️ **Image Steganography Tool** — hide/extract data in images
+---
 
-## ​ GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shubham5665&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham5665&theme=radical" />
-</p>
+## 🚀 Featured Projects
+- 🔎 **Wayback Endpoint Finder** — automate recon with archived endpoints  
+- 📧 **Email Threat Analyzer** — phishing detection tool  
+- 🖼️ **Image Steganography Tool** — hide/extract data in images  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham5665&layout=compact&theme=radical" />
-</p>
+### 🔗 Project Links
+- [Wayback Endpoint Finder](https://github.com/shubham5665/wayback-sensitive-scanner)  
+- [Email Threat Analyzer](https://github.com/shubham5665/email-threat-analyzer)  
+- [Image Steganography Tool](https://github.com/shubham5665/steganography)  
 
-## ​ Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham5665&theme=matrix&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+---
 
-## ​ Contribution Snake
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## ​ Contact
+---
+
+## 📬 Contact
 **Email:** shubhamprajapat074@gmail.com  
-**LinkedIn:** [shubham-prajapat-629b922b7](https://linkedin.com/in/shubham-prajapat-629b922b7)
+**LinkedIn:** [shubham-prajapat-629b922b7](https://linkedin.com/in/shubham-prajapat-629b922b7)  
